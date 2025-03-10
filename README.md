@@ -25,7 +25,7 @@ To use this script, ensure the following:
 
 1. Clone or download this repository to your computer:  
    ```bash  
-   git clone https://github.com/YourUsername/Android-Debloater-Script.git  
+   git clone https://github.com/VadaPavMan/Android-Debloater.git  
    cd Android-Debloater-Script  
    ```  
 
