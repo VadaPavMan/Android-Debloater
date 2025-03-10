@@ -53,6 +53,4 @@ To use this script, ensure the following:
 - Use this script at your own risk.  
 - Uninstalling system apps may cause instability or remove features. Make sure to research which apps are safe to uninstall.  
 
----
 
-Feel free to customize this description to match the tone and style of your project! If you need help refining it further, let me know. 😊
