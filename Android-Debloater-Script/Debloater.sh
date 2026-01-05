@@ -411,6 +411,7 @@ com.xiaomi.security.onetrack
 com.xiaomi.simactivate.service
 com.xiaomi.xaee
 com.xiaomi.xmsfkeeper
+com.oppo.market
 org.ifaa.aidl.manager
 org.mipay.android.manager
 )
