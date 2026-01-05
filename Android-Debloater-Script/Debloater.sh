@@ -412,6 +412,8 @@ com.xiaomi.simactivate.service
 com.xiaomi.xaee
 com.xiaomi.xmsfkeeper
 com.oppo.market
+com.spotify.music
+com.netflix.mediaclient
 org.ifaa.aidl.manager
 org.mipay.android.manager
 )
