@@ -233,6 +233,7 @@ com.qualcomm.atfwd
 com.qualcomm.embms
 com.qualcomm.qti.perfdump
 com.qualcomm.qti.uim
+com.asus.aihome
 com.redteamobile.roaming
 com.simplemobiletools.gallery.pro
 com.stevesoltys.seedvault
