@@ -415,6 +415,7 @@ com.oppo.market
 com.spotify.music
 com.netflix.mediaclient
 com.facebook.katana
+com.tencent.ig
 org.ifaa.aidl.manager
 org.mipay.android.manager
 )
