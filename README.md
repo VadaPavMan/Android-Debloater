@@ -52,3 +52,4 @@ To use this script, ensure the following:
 - Uninstalling system apps may cause instability or remove features. Make sure to research which apps are safe to uninstall.  
 
 
+# Added More Pkg
